@@ -51,5 +51,18 @@ CREATE TABLE Cars (
     Color VARCHAR(20)
 );
 
+```SQL
+
+---Inserting Values into Car table---
+
+INSERT INTO Cars VALUES
+(1, 'Toyota', 'Corolla', 2021, 50000, 'Petrol', 'Automatic', 20, 'white'),
+(2, 'Honda', 'Civic', 2020, 25000,'Petrol', 'Manual', 22, 'black'),
+(3, 'Tesla', 'Model 3', 2022, 40000,'Electric', 'Automatic', 45, 'yellow'),
+(4, 'BMW', 'X5', 2019, 60000,'Diesel', 'Automatic', 55, 'blue'),
+(5, 'Toyota', 'Camry', 2021,55000, 'Hybrid','Automatic', 28,'silver');
+
+```
+
 
 
