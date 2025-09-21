@@ -102,3 +102,5 @@ INSERT INTO Customers VALUES
 
 <img width="1468" height="728" alt="NEW CAR CHART" src="https://github.com/user-attachments/assets/5904961c-7076-4de9-b04a-433151314aec" />
 
+## Power Bi Dashbord
+
