@@ -93,4 +93,9 @@ INSERT INTO Customers VALUES
 ```
 <img width="562" height="173" alt="CUSTOMER TABLE" src="https://github.com/user-attachments/assets/c1882243-a7c1-46f4-a70b-2cf0930460f9" />
 
+## Visualization
+## Pivot Tables
+
+
+
 
