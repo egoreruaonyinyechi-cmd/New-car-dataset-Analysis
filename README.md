@@ -98,5 +98,6 @@ INSERT INTO Customers VALUES
 
 <img width="1050" height="827" alt="NEW CAR PIVOT REAL" src="https://github.com/user-attachments/assets/e9cbf5ad-467a-43ee-8185-a8a708282b10" />
 
+## Chart
 
 
