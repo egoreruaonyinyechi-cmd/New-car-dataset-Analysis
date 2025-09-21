@@ -5,7 +5,7 @@
 ---
 
 ## Contents
- [Project Overview](#Project-Overview) |+[Data Source](#Data-Source)|+ [Data Source](#Data-Source) |+ [Tables Used](#Tool-Used) |+ [Table-Outlay](#Table-Outlay) |+ [Query Languages)](#Query-Languages)|+ [Visualization](#Visualization) | [Summary](#Summary)
+ [Project Overview](#Project-Overview) |+[Data Source](#Data-Source)|+ [Data Source](#Data-Source) |+ [Tables Used](#Tool-Used) |+ [Table-Outlay](#Table-Outlay) |+ [Query Languages)](#Query-Languages)|+ [Visualization](#Visualization) | [Summary](#Summary) |[Findings](#Findings)
 
 ---
 
@@ -108,5 +108,8 @@ INSERT INTO Customers VALUES
 
 
 ![Uploading NEW CAR 2.JPG…]()
+ ## Findings
 
 ## Summary
+
+ With this project, I’ve demonstrated the end-to-end process of data analytics — from database design to visualization — which is a strong addition to my professional portfolio.
