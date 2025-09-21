@@ -116,9 +116,6 @@ INSERT INTO Customers VALUES
 + SUV is the highest sales by bobystyle
 + the highest sales by region is Ausin
 
-
-<img width="715" height="232" alt="image" src="https://github.com/user-attachments/assets/01f1b254-7d62-4ecf-89c2-79b387cc4e6f" />
-
 ## Summary
 
  With this project, I’ve demonstrated the end-to-end process of data analytics — from database design to visualization — which is a strong addition to my professional portfolio.
