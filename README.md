@@ -109,6 +109,13 @@ INSERT INTO Customers VALUES
 
 ![Uploading NEW CAR 2.JPG…]()
  ## Findings
++Female gender has the highest record for sales
++Pale white is the highest colour bought by men,
++Double AA Ove is the highest engine sold
++SUV is the highest sales by bobystyle
++the highest sales by region is Ausin
+
+<img width="715" height="232" alt="image" src="https://github.com/user-attachments/assets/01f1b254-7d62-4ecf-89c2-79b387cc4e6f" />
 
 ## Summary
 
