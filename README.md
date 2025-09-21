@@ -96,6 +96,7 @@ INSERT INTO Customers VALUES
 ## Visualization
 ## Pivot Tables
 
+![Uploading REE.jpg…]()
 
 ## Chart
 
