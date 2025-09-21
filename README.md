@@ -62,7 +62,11 @@ INSERT INTO Cars VALUES
 (4, 'BMW', 'X5', 2019, 60000,'Diesel', 'Automatic', 55, 'blue'),
 (5, 'Toyota', 'Camry', 2021,55000, 'Hybrid','Automatic', 28,'silver');
 
+SELECT * FROM Car
+
 ```
+
+
 
 ```SQL
 ---Creating customers table---
