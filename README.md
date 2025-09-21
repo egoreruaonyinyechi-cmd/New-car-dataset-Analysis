@@ -66,6 +66,7 @@ SELECT * FROM Car
 
 ```
 
+<img width="574" height="173" alt="car table" src="https://github.com/user-attachments/assets/b8ca6e8f-f725-4475-a061-db4ab3715dc1" />
 
 
 ```SQL
