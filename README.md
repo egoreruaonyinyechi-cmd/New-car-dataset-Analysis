@@ -91,5 +91,6 @@ INSERT INTO Customers VALUES
 (4, 'Sarah Williams', '08022233344', 'sarah@example.com', 'Ibadan');
 
 ```
+<img width="562" height="173" alt="CUSTOMER TABLE" src="https://github.com/user-attachments/assets/c1882243-a7c1-46f4-a70b-2cf0930460f9" />
 
 
