@@ -25,12 +25,12 @@ Tools Used:
 ## Table Outlay:
   First four Columns
 
-  Car_id	Date	Customer Name	Gender	Annual Income	Dealer_Name	Company	Model	Engine	Transmission	Color	Price ($)	Dealer_No 	Body Style	Phone	Dealer_Region
-C_CND_000001	1/2/2022	Geraldine	Male	13500	Buddy Storbeck's Diesel Service Inc	Ford	Expedition	DoubleÃ‚Â Overhead Camshaft	Auto	Black	26000	06457-3834	SUV	8264678	Middletown
-C_CND_000002	1/2/2022	Gia	Male	1480000	C & M Motors Inc	Dodge	Durango	DoubleÃ‚Â Overhead Camshaft	Auto	Black	19000	60504-7114	SUV	6848189	Aurora
-C_CND_000003	1/2/2022	Gianna	Male	1035000	Capitol KIA	Cadillac	Eldorado	Overhead Camshaft	Manual	Red	31500	38701-8047	Passenger	7298798	Greenville
-C_CND_000004	1/2/2022	Giselle	Male	13500	Chrysler of Tri-Cities	Toyota	Celica	Overhead Camshaft	Manual	Pale White	14000	99301-3882	SUV	6257557	Pasco
-<img width="1910" height="121" alt="image" src="https://github.com/user-attachments/assets/e7881c3c-d86d-4e4e-b2e4-17ae66de63c8" />
+|Car_id|	Date	|Customer Name|	Gender|	Annual Income	|Dealer_Name	|Company	Model|	Engine	|Transmission	|Color|	Price ($)	|Dealer_No |	Body Style	|Phone	|Dealer_Region|
+|C_CND_000001	|1/2/2022|Geraldine|	Male	|13500|	Buddy |Storbeck's |Diesel| Service Inc	|Ford	Expedition|	DoubleÃ‚Â |Overhead |Camshaft|	Auto	Black	|26000	|06457-3834	|SUV	|8264678	|Middletown|
+|C_CND_000002|	1/2/2022	|Gia	|Male|	1480000|	C & M Motors| Inc	Dodge|	Durango	|DoubleÃ‚Â| Overhead |Camshaft|	Auto	Black	|19000	|60504-7114|	SUV|	6848189|	Aurora|
+|C_CND_000003	|1/2/2022	|Gianna|	Male	|1035000	|Capitol| KIA	|Cadillac	|Eldorado|	Overhead |Camshaft|	Manual|	Red	|31500|	38701-8047|Passenger	|7298798	|Greenville|
+|C_CND_000004|	1/2/2022	|Giselle	|Male|	13500	|Chrysler of Tri-Cities|	Toyota	|Celica	|Overhead |Camshaft|	Manual	|Pale |White|14000	99301-3882|	SUV|	6257557|	Pasco|
+
 
 
 
