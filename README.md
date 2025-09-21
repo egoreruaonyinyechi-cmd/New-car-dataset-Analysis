@@ -51,8 +51,8 @@ CREATE TABLE Cars (
     Color VARCHAR(20)
 );
 
+```
 ```SQL
-
 ---Inserting Values into Car table---
 
 INSERT INTO Cars VALUES
