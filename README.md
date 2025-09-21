@@ -78,4 +78,13 @@ CREATE TABLE Customers (
 
 ```
 
+```SQL
+INSERT INTO Customers VALUES
+(1, 'John Doe', '08012345678', 'john@example.com', 'Lagos'),
+(2, 'Mary Smith', '08098765432', 'mary@example.com', 'Abuja'),
+(3, 'David Johnson', '08045678901', 'david@example.com', 'Port Harcourt'),
+(4, 'Sarah Williams', '08022233344', 'sarah@example.com', 'Ibadan');
+
+```
+
 
