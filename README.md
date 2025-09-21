@@ -64,5 +64,18 @@ INSERT INTO Cars VALUES
 
 ```
 
+```SQL
+---Creating customers table---
+
+-- Customers Table
+CREATE TABLE Customers (
+    CustomerID INT PRIMARY KEY,
+    FullName VARCHAR(100),
+    Phone VARCHAR(20),
+    Email VARCHAR(100),
+    City VARCHAR(50)
+);
+
+```
 
 
