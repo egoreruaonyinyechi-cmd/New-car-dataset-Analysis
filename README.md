@@ -5,7 +5,7 @@
 ---
 
 ## Contents
- [Project Overview](#Project-Overview) |+[Data Source](#Data-Source)|+ [Data Source](#Data-Source) |+ [Tables Used](#Tool-Used) |+ [Table-Outlay](#Table-Outlay) |+ [Query Languages)](#Query-Languages)|+ [Visualization](#Visualization)
+ [Project Overview](#Project-Overview) |+[Data Source](#Data-Source)|+ [Data Source](#Data-Source) |+ [Tables Used](#Tool-Used) |+ [Table-Outlay](#Table-Outlay) |+ [Query Languages)](#Query-Languages)|+ [Visualization](#Visualization) | [Summary](#Summary)
 
 ---
 
@@ -109,3 +109,4 @@ INSERT INTO Customers VALUES
 
 ![Uploading NEW CAR 2.JPG…]()
 
+## Summary
