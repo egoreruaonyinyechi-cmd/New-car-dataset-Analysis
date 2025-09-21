@@ -32,6 +32,24 @@ Tools Used:
 |C_CND_000003	|1/2/2022	|Gianna|	Male	|1035000	|Capitol| KIA	|Cadillac	|Eldorado|	Overhead |Camshaft|	Manual|	Red	|31500|	38701-8047|Passenger	|7298798	|Greenville|
 |C_CND_000004|	1/2/2022	|Giselle	|Male|	13500	|Chrysler of Tri-Cities|	Toyota	|Celica	|Overhead |Camshaft|	Manual	|Pale |White|14000	99301-3882|	SUV|	6257557|	Pasco|
 
+## Query Languages: (SQL)
+some of the query languages to retieve records are displayed here
+
+```SQL
+CREATE DATABASE new_car
+
+
+CREATE TABLE Cars (
+    CarID INT PRIMARY KEY,
+    Brand VARCHAR(50),
+    Model VARCHAR(50),
+    Year INT,
+    Price DECIMAL(12,2),
+    FuelType VARCHAR(20),
+    Transmission VARCHAR(20),
+    Mileage INT,
+    Color VARCHAR(20)
+);
 
 
 
