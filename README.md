@@ -109,13 +109,26 @@ INSERT INTO Customers VALUES
 
 ![Uploading NEW CAR 2.JPG…]()
  ## Findings
-
-+ Female gender has the highest record for sales
+ 
+From the analysis of the New Car Sales Dataset, the following insights were observed:
++Female gender has the highest record for sales
 + Pale white is the highest colour bought by men,
 + Double AA Ove is the highest engine sold
 + SUV is the highest sales by bodystyle
 + the highest sales by region is Ausin
 
-## Conclusion
 
- With this project, I’ve demonstrated the end-to-end process of data analytics — from database design to visualization which is a strong addition to my professional portfolio.
+## Summary
+he New Car Sales Dataset Project demonstrates an end-to-end data analysis process using SQL, Excel, and Power BI. The dataset was structured into relational tables covering Cars, Customers, Dealers, and Sales, allowing for efficient querying and reporting.
+Key tasks included:
+Database design and normalization into two related tables.
+SQL queries to calculate revenue, average selling prices, top brands, customer loyalty, and sales trends.
+Excel pivot tables for quick exploration and validation.
+Power BI dashboard to visualize KPIs, brand performance, customer insights, and monthly/quarterly sales trends.
+
+## Conclusion
+The New Car Sales Dataset Project demonstrates an end-to-end data analysis process using SQL, Excel, and Power BI. The dataset was structured into relational tables covering Cars, Customers, Dealers, and Sales, allowing for efficient querying and reporting.
+SQL queries to Car Table, generate Customers Table, calculate revenue, average selling prices, top brands, customer loyalty, and sales trends.
+Excel pivot tables for quick exploration and validation.
+Power BI dashboard to visualize KPIs, brand performance, customer insights, and monthly/quarterly sales trends.
+With this project, I’ve demonstrated the end-to-end process of data analytics — from database design to visualization which is a strong addition to my professional portfolio.
