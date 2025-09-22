@@ -5,7 +5,7 @@
 ---
 
 ## Contents
- [Project Overview](#Project-Overview) |+[Data Source](#Data-Source)|+ [Data Source](#Data-Source) |+ [Tables Used](#Tool-Used) |+ [Table-Outlay](#Table-Outlay) |+ [Query Languages)](#Query-Languages)|+ [Visualization](#Visualization) | [Summary](#Summary) |[Findings](#Findings)
+ [Project Overview](#Project-Overview) |+[Data Source](#Data-Source)|+ [Data Source](#Data-Source) |+ [Tables Used](#Tool-Used) |+ [Table-Outlay](#Table-Outlay) |+ [Query Languages)](#Query-Languages)|+ [Visualization](#Visualization) | [Conclusion](#Conclusion) |[Findings](#Findings)
 
 ---
 
@@ -113,9 +113,9 @@ INSERT INTO Customers VALUES
 + Female gender has the highest record for sales
 + Pale white is the highest colour bought by men,
 + Double AA Ove is the highest engine sold
-+ SUV is the highest sales by bobystyle
++ SUV is the highest sales by bodystyle
 + the highest sales by region is Ausin
 
-## Summary
+## Conclusion
 
  With this project, I’ve demonstrated the end-to-end process of data analytics — from database design to visualization — which is a strong addition to my professional portfolio.
