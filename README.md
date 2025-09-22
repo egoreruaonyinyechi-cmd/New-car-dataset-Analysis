@@ -105,7 +105,7 @@ INSERT INTO Customers VALUES
 
 ![NEW CAR DASHBORD POWER BI 2](https://github.com/user-attachments/assets/7db039c2-3924-4d2e-aa15-77f614403fa6)
 
-
+![NEW CAR 2](https://github.com/user-attachments/assets/69c80fba-8ce6-4364-980d-ac05f66b9dca)
 
  ## Findings
  
