@@ -95,6 +95,7 @@ INSERT INTO Customers VALUES
 
 ## Visualization
 ## Pivot Tables
+![REE](https://github.com/user-attachments/assets/02bd099c-02c4-4779-b034-01835e5ca09c)
 
 ## Chart
 
