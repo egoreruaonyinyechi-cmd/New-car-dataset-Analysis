@@ -118,4 +118,4 @@ INSERT INTO Customers VALUES
 
 ## Conclusion
 
- With this project, I’ve demonstrated the end-to-end process of data analytics — from database design to visualization — which is a strong addition to my professional portfolio.
+ With this project, I’ve demonstrated the end-to-end process of data analytics — from database design to visualization which is a strong addition to my professional portfolio.
